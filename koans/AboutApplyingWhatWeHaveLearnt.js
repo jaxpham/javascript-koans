@@ -13,7 +13,7 @@ describe('About Applying What We Have Learnt', function() {
     ];
   });
 
-  /*********************************************************************************/
+  /**********************************************************************************/
 
   it('given I\'m allergic to nuts and hate mushrooms, it should find a pizza I can eat (imperative)', function () {
     var i, j, hasMushrooms;
